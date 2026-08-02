@@ -2,7 +2,6 @@
 # Hi, I'm Chandana 👋
 
 🎓 BCA Student  
-🚀 Contributor at Social Summer of Code (SSOC) Season 5  
 💻 Currently learning Java & Open Source  
 
 ## 🔧 Skills
